@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">TrabalhoVanessa</string>
+    <string name="txtCliente">Cliente:</string>
+    <string name="txtDefeito">Defeito:</string>
+    <string name="txtValor">Valor:</string>
+    <string name="txtTipo">Tipo:</string>
+    <string name="txtOrcamento">Orçamento:</string>
+    <string name="txtServico">Serviço:</string>
+    <string name="txtCategoria">Categoria:</string>
+    <string name="txtServicoFinalizado">Serviço Finalizado</string>
+
+    <string name="hintNome">Digite aqui o nome </string>
+    <string name="hintDefeito">Digite aqui o defeito</string>
+    <string name="hintValor">0.00 </string>
+    <string name="selecione">Selecione...</string>
+    <string name="Salvar">Salvar</string>
+
+
+    <string name="txtLimpar">Limpar</string>
+    <string name="txtSair">Sair</string>
+
+    <string-array name="Categorias">
+        <item>Selecione...</item>
+        <item>Hardware</item>
+        <item>Sistema Operacional</item>
+        <item>Sistema de terceiros</item>
+        <item>Celulares</item>
+        <item>Tablets</item>
+    </string-array>
+</resources>
